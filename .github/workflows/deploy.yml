@@ -21,4 +21,4 @@ jobs:
           password: ${{ secrets.FTP_PASSWORD }}
           protocol: ftp
           local-dir: ./
-          server-dir: /maru1819.xsrv.jp/public_html/example
+          server-dir: /maru1819.xsrv.jp/public_html/example/
